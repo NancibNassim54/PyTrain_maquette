@@ -2,8 +2,6 @@
 
 > A user-centered mobile application designed to make learning Python intuitive, engaging, and accessible for beginners. 
 
-![App Banner / Mockup Placeholder](Capture d’écran 2026-06-17 à 18.11.22.png)
-
 ## 📱 About the Project
 This project is a comprehensive UI/UX design and interactive prototype for a mobile application dedicated to learning Python programming. Built with a strong focus on **cognitive ergonomics** and user engagement, the app breaks down complex programming concepts into bite-sized, interactive learning modules with gamified challenges.
 
